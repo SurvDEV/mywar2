@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+
+td
+{
+	width : 19px;
+	height: 19px;
+	text-align : center;
+	border : 1cm;
+}
+
+.error
+{
+	color : red;
+}	
